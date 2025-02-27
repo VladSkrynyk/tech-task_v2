@@ -158,3 +158,14 @@ Among all the models tested, the **Convolutional Neural Network (CNN)** achieved
 ### Conclusion
 
 In summary, the CNN model excelled due to its specialized architecture for image data. While Feed-Forward Neural Networks and Random Forests can perform well in many scenarios, CNNs are superior when dealing with tasks like image classification where spatial hierarchies and feature extraction are key. This makes CNN the most effective model for recognizing and classifying handwritten digits in the MNIST dataset.
+
+## Additional Section
+
+An additional project related to neural networks is available on my GitHub:
+
+[Neural Network without Libraries](https://github.com/VladSkrynyk/NeuralNetworkForHandwrittenDigitRecognition)
+
+This project demonstrates the implementation of a simple neural network with both forward and backward propagation, built entirely from scratch without the use of any external libraries. This approach highlights the fundamental principles of how neural networks operate.
+
+
+
